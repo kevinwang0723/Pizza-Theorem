@@ -20,6 +20,6 @@ Finally you can calculate the total area of differnt color, as you can see the t
 <img src="https://user-images.githubusercontent.com/61679675/141654063-e6d87489-9445-4afb-85d2-e750ba540c2e.png" width="400">
 
 
-% Pizza theorem DEMO from K!W! BiRD 
-% https://youtu.be/cCSZdpaaYQ0
-% Contact:kiwibird0723@gmail.com
+Pizza theorem DEMO from K!W! BiRD 
+https://youtu.be/cCSZdpaaYQ0
+Contact:kiwibird0723@gmail.com
