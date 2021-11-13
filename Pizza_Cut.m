@@ -1,11 +1,15 @@
 close
 clear
 clc
+% Pizza theorem DEMO from K!W! BiRD 
+% https://youtu.be/cCSZdpaaYQ0
+% Contact:kiwibird0723@gmail.com
 
-% r是圓形的大小
-% x_0及y_0是切披薩所經過的點，必須選在園內
-% n為切披薩的總共刀數
-% theta_0 是第一刀與水平的傾斜角
+% r circle size
+% x_0 y_0 are the cutting point of the pizza have to be located inside the circle
+% n is the total cut number
+% theta_0 the tilt angel between horizontal line for the first cut
+
 r=8;
 x_0=-3.3;
 y_0=-3.2;
