@@ -1,6 +1,9 @@
 # Pizza-Theorem
 Using matlab to demonstrate pizza theorem, which can divide a circle equally. The code include two parts, cutting circle and area calculation.
 
+
+# Process 
+
 Using Pizza_Cut.m we can easily to create cutted pizza.
 You can change the parameter according your requirement.
 
